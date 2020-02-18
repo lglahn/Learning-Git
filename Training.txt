@@ -6,3 +6,4 @@ GitHub
 Edited
 Adding again
 This is branch commit
+adding changes to master
